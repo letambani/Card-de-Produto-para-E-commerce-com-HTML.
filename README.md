@@ -10,5 +10,5 @@ Para esse exercício, o desafio era subir um código no github e upar uma págin
 - Linguagens de marcação;
 - Estilo e programação que constituem a base de toda estrutura virtual;
 - Estruturas x  Bancos de dados e Servidores.
-- 
+
 [👩‍💻 Clique aqui e veja o meu exercício!](https://letambani.github.io/Card-de-Produto-para-E-commerce-com-HTML./)
